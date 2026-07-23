@@ -3,7 +3,7 @@
 ### 🚀 About Me
 
 Full Stack Web Developer | Node.js & Backend Architecture Specialist
-3+ years of professional experience building secure, scalable REST APIs and high-performance web applications. Currently focused on AI-integrated workflows and cloud-native architectures.
+4 years of professional experience building secure, scalable REST APIs and high-performance web applications. Currently focused on AI-integrated workflows and cloud-native architectures.
 
 
 
@@ -11,7 +11,7 @@ Full Stack Web Developer | Node.js & Backend Architecture Specialist
 
 Programming Languages: JavaScript (ES6+), TypeScript, and PHP.
 
-Backend Development: Node.js (Express.js), Laravel, and OOP Design.
+Backend Development: Node.js (Express.js), Python, and OOP Design.
 
 Frontend Development: React.js, HTML5, CSS3, Bootstrap, and Tailwind CSS.
 
